@@ -15,3 +15,5 @@
 | 10 | Volúmenes de búsqueda reales de las plantillas T1–T10 (pozo, desarrolladoras, zonas) | Ahrefs / Semrush / Keyword Planner (el conector de Ahrefs falló en esta sesión) | Growth | Abierto |
 | 11 | Disponibilidad de datos abiertos: permisos de obra del GCBA, Ciudad 3D, índice CAC | Revisar data.buenosaires.gob.ar y la CAC | Growth/Producto | Abierto |
 | 12 | Aspectos legales del módulo de reputación de desarrolladoras | Consulta con un abogado | Founders | Abierto |
+| 13 | Conversión real por segmento (inversor vs. vivienda): costo por lead actual, % lead→visita, % visita→reserva | Preguntarlo en las 20 entrevistas a desarrolladoras | Growth | Abierto |
+| 14 | Regulación de la inversión fraccionada (CNV, financiamiento colectivo, fideicomisos) | Consulta legal | Founders | Abierto |

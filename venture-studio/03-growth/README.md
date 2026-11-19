@@ -55,6 +55,7 @@
 ```
 
 ## 4. Documentos
+- [Segmentos (inversor vs. vivienda) y cómo cobrar a cada uno](segmentos-y-monetizacion.md)
 - [Opciones de posicionamiento (enfoques creativos evaluados)](posicionamiento-opciones.md)
 - [SEO programático: plantillas, clusters y reglas de calidad](seo-programatico.md)
 - [Loops de crecimiento, North Star y backlog de experimentos](loops-y-experimentos.md)
