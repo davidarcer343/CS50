@@ -35,6 +35,8 @@
 - **Demanda:** la diáspora ya busca. Camacol y Fincaraíz hacen ferias presenciales en Miami y NY/NJ con constructoras 🟢. **La demanda está validada offline; nadie la atiende digitalmente todo el año.**
 - **Fase 2:** reutiliza la audiencia (latinos con capital en USA y LatAm) para vender preconstrucción en Florida.
 
+> 🔄 **Ajuste:** el corredor de la diáspora es el **segmento premium**. El **volumen** viene del consumidor final que compra para vivir (~85–90% de las transacciones). Ver [estrategia de consumidor final](../03-growth/estrategia-consumidor-final.md).
+
 ## 3. Documentos
 - [Colombia: mercado, competencia y constructoras](colombia.md)
 - [USA: mercado, competencia y regulación](usa.md)

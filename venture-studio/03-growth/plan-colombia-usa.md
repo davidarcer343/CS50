@@ -3,9 +3,13 @@
 *Reemplaza el foco Argentina de los documentos anteriores. La mecánica (SEO de 2 lados, confianza, WhatsApp, cobro por evento) se mantiene; cambian el mercado, las keywords y el ICP.*
 
 ## Conclusión
-**Posicionamiento:** *"Comprá o invertí en vivienda nueva en Colombia desde USA, con confianza."*
+> 🔄 **Actualizado:** la categoría se amplía al consumidor final que quiere vivir (volumen). Ver [estrategia de consumidor final](estrategia-consumidor-final.md).
+
+**Posicionamiento (categoría):** *"El buscador de vivienda nueva en Colombia, para vivir o invertir, desde donde estés."*
+**Puertas de entrada:** 🏠 Vivir (volumen) · 📈 Invertir · ✈️ Desde el exterior (premium, diferencial).
+**Mensaje de la puerta para la diáspora:** *"Comprá o invertí en vivienda nueva en Colombia desde USA, con confianza."*
 **ICP de oferta (P1):** constructoras medianas y regionales con proyectos No VIS sobre planos.
-**ICP de demanda (P1):** colombianos en FL, NY y NJ que compran o invierten.
+**ICP de demanda:** volumen = compradores para vivir en Bogotá y Medellín (VIS y No VIS, con precalificación); margen = colombianos en FL, NY y NJ + inversionistas.
 **North Star:** **separaciones atribuidas por mes** (indicador adelantado: leads calificados de la diáspora).
 
 ## 1. SEO: clusters para Colombia + diáspora (volúmenes 🔴 a validar)

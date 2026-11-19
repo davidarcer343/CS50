@@ -59,6 +59,7 @@
 
 ## 4. Documentos
 - [**Plan de growth Colombia + USA** (vigente)](plan-colombia-usa.md)
+- [**Consumidor final: volumen sin perder foco**](estrategia-consumidor-final.md)
 - [Segmentos (inversor vs. vivienda) y cómo cobrar a cada uno](segmentos-y-monetizacion.md)
 - [Opciones de posicionamiento (enfoques creativos evaluados)](posicionamiento-opciones.md)
 - [SEO programático: plantillas, clusters y reglas de calidad](seo-programatico.md)

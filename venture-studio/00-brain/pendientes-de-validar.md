@@ -23,3 +23,6 @@
 | 18 | Costo por lead actual de las constructoras (Metrocuadrado, Fincaraíz, Meta) y comisión a inmobiliarias aliadas | Entrevistas | Growth | Abierto |
 | 19 | Estado de "Mi Casa en Colombia" (FNA) y "Casa Milagro" | Fuentes oficiales | Growth | Abierto |
 | 20 | Volúmenes de búsqueda de los clusters de la diáspora (es-CO, es-US, en-US) | Ahrefs / Semrush | Growth | Abierto |
+| 21 | ¿Bancos o fintechs en Colombia pagan por referir créditos hipotecarios o leasing? ¿Qué permite la regulación? | Entrevistas a bancos + abogado | Growth | Abierto |
+| 22 | Causas reales de los desistimientos (crédito negado vs. subsidio vs. arrepentimiento) | Entrevistas a constructoras | Growth | Abierto |
+| 23 | Riesgo legal de agregar avisos de otros portales (scraping, términos de uso) en Colombia | Abogado | Founders | Abierto |
