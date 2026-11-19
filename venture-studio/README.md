@@ -26,8 +26,8 @@ Vertical: **IA para real estate, con foco en constructoras, desarrolladoras e in
 7. [Cómo ganarle: estrategia y plan de 90 días](01-analisis-competencia/roomix/como-ganarle.md)
 8. [Mapa de competidores adyacentes](01-analisis-competencia/mapa-competidores.md)
 9. [Fuentes](01-analisis-competencia/roomix/fuentes.md)
-11. [**Estrategia de Growth**](03-growth/README.md) ← **plan propio**
-10. [Hipótesis abiertas / pendientes de validar](00-brain/pendientes-de-validar.md)
+10. [**Estrategia de Growth**](03-growth/README.md) ← **plan propio**
+11. [Hipótesis abiertas / pendientes de validar](00-brain/pendientes-de-validar.md)
 
 ## Regla de oro
 
