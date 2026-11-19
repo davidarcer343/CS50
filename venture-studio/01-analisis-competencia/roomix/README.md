@@ -27,6 +27,8 @@ Leyenda de confianza: 🟢 verificado · 🟡 declarado por la empresa · 🔴 i
 
 ---
 
+> **Aclaración del modelo (ver [modelo-de-negocio.md](modelo-de-negocio.md)):** el **buscador web** con IA es el que genera las visitas (SEO, gratis). El **bot de WhatsApp** (US$30) es la capa que monetizan y está pensado para el **asesor** de la inmobiliaria (un copiloto): no es un bot que atienda al consumidor final 🟡/🔴 (falta confirmarlo con mystery shopping).
+
 ## 2. Qué es y qué hace
 
 | Dimensión | Hallazgo | Conf. |
@@ -85,6 +87,7 @@ Leyenda de confianza: 🟢 verificado · 🟡 declarado por la empresa · 🔴 i
 
 ## 6. Documentos de soporte
 
+- [Modelo de negocio aclarado](modelo-de-negocio.md)
 - [Métricas y timeline](metricas-y-timeline.md)
 - [Inbound y SEO](inbound-y-seo.md)
 - [Fundadores e inversores](fundadores-e-inversores.md)
