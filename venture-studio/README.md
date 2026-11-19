@@ -20,6 +20,7 @@ Vertical: **IA para real estate, con foco en constructoras, desarrolladoras e in
 ## Documentos clave
 
 0. [**Mercado Colombia + USA (empezar acá)**](02-mercado/README.md) · [Plan de growth Colombia + USA](03-growth/plan-colombia-usa.md) · [Consumidor final (volumen)](03-growth/estrategia-consumidor-final.md)
+   · [**Matriz de propuestas de valor + features "Camino a Casa"**](01-analisis-competencia/matriz-propuestas-valor.md) · [**Aliados de financiación (factibilidad)**](02-mercado/financiacion-aliados.md)
 1. [Roomix — Análisis de competencia (growth comercial)](01-analisis-competencia/roomix/README.md) ← referencia del modelo
 2. [Roomix — Modelo de negocio aclarado (buscador vs. bot)](01-analisis-competencia/roomix/modelo-de-negocio.md)
 3. [Roomix — Línea de tiempo y métricas](01-analisis-competencia/roomix/metricas-y-timeline.md)

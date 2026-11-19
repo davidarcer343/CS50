@@ -26,3 +26,8 @@
 | 21 | ¿Bancos o fintechs en Colombia pagan por referir créditos hipotecarios o leasing? ¿Qué permite la regulación? | Entrevistas a bancos + abogado | Growth | Abierto |
 | 22 | Causas reales de los desistimientos (crédito negado vs. subsidio vs. arrepentimiento) | Entrevistas a constructoras | Growth | Abierto |
 | 23 | Riesgo legal de agregar avisos de otros portales (scraping, términos de uso) en Colombia | Abogado | Founders | Abierto |
+| 24 | ¿Duppla y Toperty aceptan referidos? ¿Aplican a vivienda nueva? ¿Qué fee pagan? | Reunión exploratoria | Growth | Abierto |
+| 25 | ¿Bancos y FNA pagan por originación? ¿Tienen API de preaprobación? | Reuniones con alianzas | Growth | Abierto |
+| 26 | Legalidad y operación del mercado de cesiones de derechos fiduciarios | Abogado + 1 fiduciaria + 1 constructora | Founders | Abierto |
+| 27 | ¿En qué momento exacto ocurre el desistimiento (durante la cuota inicial vs. crédito negado al final)? | Datos de 3 constructoras | Growth | Abierto |
+| 28 | Estado vigente de "Mi Casa en Colombia" (FNA) y del 100% en VIS | fna.gov.co | Growth | Abierto |

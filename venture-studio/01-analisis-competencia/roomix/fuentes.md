@@ -79,3 +79,21 @@
 - Migration Policy Institute — https://www.migrationpolicy.org/article/colombian-immigrants-united-states
 - Realtor.com RealAssist AI — https://nationalmortgageprofessional.com/news/realtorcom-launches-ai-home-search-platform-built-google
 - Florida Realtors, ley de referral fees — https://floridarealtors.org/news-media/news-articles/2023/11/making-referral-money-fla-law-oversees-how-its-done
+
+## Propuestas de valor y financiación (consultadas el 19-nov-2026)
+- La Haus, simulador — https://www.lahaus.com/co/herramientas/simulador-credito-hipotecario
+- Portafolio, La Haus — https://www.portafolio.co/revista-portafolio/la-haus-democratizar-el-acceso-a-la-vivienda-573034
+- OnlineMarketplaces, La Haus "garantiza ventas" — https://www.onlinemarketplaces.com/articles/la-haus-can-guarantee-sales-with-new-product/
+- Portafolio, Habi con más del 10% de los créditos — https://www.portafolio.co/mis-finanzas/vivienda/habi-alcanza-10-del-mercado-de-creditos-de-vivienda-en-colombia-en-2025-627908
+- Portafolio, Habi + Bancolombia — https://www.portafolio.co/mis-finanzas/vivienda/habi-y-bancolombia-se-unen-para-facilitar-el-acceso-a-vivienda-569448
+- Portafolio, Habi + BBVA — https://www.portafolio.co/economia/finanzas/asi-puede-acceder-al-credito-para-vivienda-de-la-alianza-habi-y-bbva-572109
+- LatamFintech, Duppla US$60M — https://www.latamfintech.co/articles/fintech-colombiana-duppla-levanta-us-60-millones-para-escalar-su-modelo-de-financiacion-alternativa-para-vivienda
+- Valora Analitik, Duppla — https://www.valoraanalitik.com/de-pagar-arriendo-a-tener-vivienda-propia-el-modelo-en-colombia-al-que-se-puede-entrar-desde-1-millon/
+- Forbes, Skandia Urbano — https://forbes.co/2026/10/29/negocios/skandia-lanza-urbano-el-primer-fondo-de-inversion-institucional-que-apuesta-por-el-modelo-rent-to-own-en-colombia/
+- Forbes, Toperty — https://forbes.co/2024/03/08/emprendedores/toperty/
+- Infobae, FNA 100% VIS — https://www.infobae.com/colombia/2026/02/09/el-fondo-nacional-del-ahorro-financiara-el-100-de-la-vivienda-social-y-eliminara-la-cuota-inicial-desde-el-segundo-semestre-de-2026/
+- BBVA, crédito para colombianos en el exterior — https://www.bbva.com.co/personas/blog/educacion-financiera/prestamos/colombianos-en-el-exterior.html
+- La FM, FNA desde el exterior — https://www.lafm.com.co/economia/fna-comprar-vivienda-desde-el-exterior-383301
+- BanRep, Reporte de Estabilidad Financiera 2026 — https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/reporte-estabilidad-financiera-1sem-2026-recuadro2.pdf
+- DANE, FIVI — https://www.dane.gov.co/files/operaciones/FIVI/bol-FIVI-Itrim2026.pdf
+- Cesión de derechos fiduciarios — https://oinmobiliaria.co/que-es-cesion-de-derechos-inmobiliarios-colombia/

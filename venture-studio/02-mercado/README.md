@@ -41,4 +41,5 @@
 - [Colombia: mercado, competencia y constructoras](colombia.md)
 - [USA: mercado, competencia y regulación](usa.md)
 - [El corredor USA ↔ Colombia (la tesis central)](corredor-usa-colombia.md)
+- [Aliados de financiación: factibilidad](financiacion-aliados.md)
 - [Plan de growth Colombia + USA](../03-growth/plan-colombia-usa.md)

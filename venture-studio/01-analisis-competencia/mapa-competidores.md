@@ -29,3 +29,8 @@ Contexto: Argentina tenía ~127 startups PropTech activas y ~US$284M invertidos 
 | **Camacol (ferias)** | USA | Ferias en Miami y NJ para la diáspora | Presencial | Aliado potencial |
 | **Zillow / Realtor.com (RealAssist AI + Google) / CoStar (Homes Ai)** | USA | Búsqueda conversacional general | — | Alta si competimos de frente (no lo haremos) |
 | Brokerages de preconstrucción en Miami | USA | SEO de preconstrucción ES/EN | — | Competidores en SEO y **socios por la licencia** |
+| **Duppla** | CO | Rent-to-own (15% de cuota inicial, hasta 5 años) | US$60M (Patria, 2026) 🟢 | **Aliado** (plan B de financiación) |
+| **Toperty** | CO | Vivienda sin una gran cuota inicial; facilita crédito bancario | Buildtech, Pygma 🟡 | Aliado |
+| **FNA** | CO | Crédito y leasing estatal; hasta 100% en VIS (prensa); programa para la diáspora | — | Aliado |
+
+> Propuestas de valor comparadas y plan de features: [matriz-propuestas-valor.md](matriz-propuestas-valor.md)
