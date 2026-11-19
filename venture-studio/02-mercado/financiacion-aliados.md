@@ -57,7 +57,23 @@ Precalificación (nuestro agente IA)
 ## 5. Florida (fase 3)
 - Para la preconstrucción en Florida, la financiación de compradores extranjeros suele ser con **depósitos escalonados y pago al cierre** (detalle a validar) 🔴. Hay lenders de USA especializados en "foreign national mortgages" 🔴. Lo vemos junto con la brokerage aliada.
 
-## 6. Próximos pasos
+## 6. Habi: ¿aliado o competidor?
+
+**Conclusión:** son las dos cosas, según qué parte del negocio se mire. **Hay que hablar primero directo con los bancos** y dejar a Habi como opción, con un contrato que nos proteja.
+
+| Por qué sería **aliado** | Por qué sería **competidor** |
+|---|---|
+| Ya tiene la "tubería" de crédito: más del 10% del mercado de crédito de vivienda 🟡, integraciones con Bancolombia y BBVA 🟢, BID Invest hasta US$50M 🟢 | Su plan es un **ecosistema que une inmobiliarias, bancos, desarrolladores y compradores**, con un **copiloto IA por profesional** 🟡: eso es nuestro espacio |
+| Su foco es la vivienda **usada**; nosotros vamos por la **nueva** → hoy no chocamos tanto 🟡 | Compró **Pulppo** (2026) 🟡 y una startup argentina de IA 🟡: está sumando software, IA y canales |
+| Podría originar créditos para nuestros compradores sin que construyamos la integración con cada banco | Si le mandamos compradores, **se queda con la relación y los datos del cliente** (riesgo de desintermediación) y podría ofrecerles otra vivienda |
+| | Es un unicornio con capital: si ve tracción en vivienda nueva, puede copiarnos rápido |
+
+**Cómo decidir:**
+1. **Ruta preferida:** integración directa con 2–3 bancos + FNA. El caso Habi muestra que los bancos sí hacen estas alianzas.
+2. **Habi solo si:** acepta originar en modo marca blanca (el cliente sigue siendo nuestro), con cláusula de no captación, propiedad clara de los datos y un fee por desembolso.
+3. **Señales para vigilarlo:** que lance producto para vivienda nueva o constructoras, o que extienda su copiloto IA a compradores.
+
+## 7. Próximos pasos
 1. Reunión exploratoria con **Duppla** y **Toperty** (¿aceptan referidos? ¿aplican a vivienda nueva? ¿qué fee pagan?).
 2. Hablar con 2 bancos (equipo de alianzas o de constructor) + el FNA: ¿pagan por originación? ¿API de preaprobación?
 3. Analizar a **Habi como aliado posible** (¿originaría créditos para nuestros compradores?) o como competidor.
