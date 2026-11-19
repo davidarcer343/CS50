@@ -1,5 +1,8 @@
 # Loops de crecimiento, North Star y backlog de experimentos
 
+> 🌎 **Actualización (19-nov-2026):** lanzamos en **Colombia + USA**. Las referencias a Argentina (CABA, CEDU, CAMARCO, Tokko, índice CAC, CNV) son ejemplos del modelo. Los equivalentes para nuestros mercados están en [`02-mercado/`](../02-mercado/README.md) y en el [plan Colombia + USA](plan-colombia-usa.md).
+
+
 ## Conclusión
 Crecemos con **4 loops** (y no con embudos lineales). El más importante y el más original frente a Roomix es el **loop del sello "Desarrolladora verificada"**: cada desarrolladora que verificamos pone nuestro sello en su web → backlink + confianza → más tráfico → más leads → más desarrolladoras quieren el sello.
 

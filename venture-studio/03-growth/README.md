@@ -1,5 +1,8 @@
 # Estrategia de Growth — Visión general
 
+> 🌎 **Actualización (19-nov-2026):** lanzamos en **Colombia + USA**. Las referencias a Argentina (CABA, CEDU, CAMARCO, Tokko, índice CAC, CNV) son ejemplos del modelo. Los equivalentes para nuestros mercados están en [`02-mercado/`](../02-mercado/README.md) y en el [plan Colombia + USA](plan-colombia-usa.md).
+
+
 *Versión 0.1 · 19-nov-2026 · Growth Lead*
 
 🟢 verificado · 🟡 declarado · 🔴 inferido o hipótesis a validar
@@ -55,6 +58,7 @@
 ```
 
 ## 4. Documentos
+- [**Plan de growth Colombia + USA** (vigente)](plan-colombia-usa.md)
 - [Segmentos (inversor vs. vivienda) y cómo cobrar a cada uno](segmentos-y-monetizacion.md)
 - [Opciones de posicionamiento (enfoques creativos evaluados)](posicionamiento-opciones.md)
 - [SEO programático: plantillas, clusters y reglas de calidad](seo-programatico.md)

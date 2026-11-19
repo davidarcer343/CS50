@@ -1,5 +1,8 @@
 # SEO programático: cómo replicar (y superar) el motor de Roomix
 
+> 🌎 **Actualización (19-nov-2026):** lanzamos en **Colombia + USA**. Las referencias a Argentina (CABA, CEDU, CAMARCO, Tokko, índice CAC, CNV) son ejemplos del modelo. Los equivalentes para nuestros mercados están en [`02-mercado/`](../02-mercado/README.md) y en el [plan Colombia + USA](plan-colombia-usa.md).
+
+
 ## Conclusión
 Roomix ganó con una fórmula simple: **barrio × perfil × tipología** = miles de páginas de long tail. Nosotros replicamos la mecánica pero con **otras variables (obra nueva, desarrolladora, inversión)** y con **un dato único por página**. Así, el objetivo de la fase 1 son **~3.000 páginas de alta calidad** 🔴, no 20.000 de relleno.
 

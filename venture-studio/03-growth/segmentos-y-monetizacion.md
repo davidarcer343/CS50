@@ -1,5 +1,8 @@
 # Segmentos de demanda y cómo cobrar por cada uno
 
+> 🌎 **Actualización (19-nov-2026):** lanzamos en **Colombia + USA**. Las referencias a Argentina (CABA, CEDU, CAMARCO, Tokko, índice CAC, CNV) son ejemplos del modelo. Los equivalentes para nuestros mercados están en [`02-mercado/`](../02-mercado/README.md) y en el [plan Colombia + USA](plan-colombia-usa.md).
+
+
 *19-nov-2026* · 🟢 verificado · 🟡 declarado · 🔴 hipótesis a validar
 
 ## Conclusión

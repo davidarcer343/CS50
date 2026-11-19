@@ -49,3 +49,33 @@
 - Innovación Digital 360 (ecosistema) — https://www.innovaciondigital360.com/software/software-proptech-argentina-2026-plataformas-digitales-inmobiliarias/
 
 > Nota metodológica: desde este entorno no se pudieron abrir las páginas directamente (red restringida). Los datos salen de los fragmentos indexados por el buscador. Antes de usar una cifra en un deck, conviene abrir la nota original.
+
+## Mercado Colombia + USA (consultadas el 19-nov-2026)
+- Portafolio, ventas de agosto 2026 (−28%) — https://www.portafolio.co/mis-finanzas/vivienda/ventas-de-vivienda-nueva-en-colombia-caen-28-en-agosto-y-agravan-retroceso-del-sector-edificador-504396
+- El País (Cali), cifras de vivienda — https://www.elpais.com.co/economia/las-fragiles-cifras-de-la-vivienda-en-colombia-y-el-valle-estas-son-las-propuestas-gremiales-para-la-reactivacion-0102.html
+- vivienda.com.co, primer semestre 2026 — https://vivienda.com.co/mercado-vivienda-nueva-colombia-ventas-2026/
+- El Tiempo, Bogotá 2026 — https://www.eltiempo.com/bogota/que-vivienda-estan-comprando-los-bogotanos-asi-son-los-apartamentos-que-dominan-el-mercado-inmobiliario-3598436
+- Alina, mercado 2026 — https://www.alina.com.co/mercado-de-vivienda-en-colombia-2026-que-nos-dicen-las-cifras-y-donde-estan-las-oportunidades/
+- Forbes Colombia, desistimientos — https://forbes.co/economia-y-finanzas/desistimientos-en-vivienda-aumentan-115-en-inicio-de-2026-y-golpean-la-preventa
+- El Colombiano, desistimientos — https://www.elcolombiano.com/negocios/desistimiento-vivienda-colombia-por-salario-minimo-2026-DE32365978
+- Portafolio, Mi Casa Ya — https://www.portafolio.co/mis-finanzas/vivienda/camacol-rechaza-eliminacion-de-subsidios-de-mi-casa-ya-en-2026-por-parte-del-gobierno-petro-635411
+- La República, compradores desde el exterior — https://www.larepublica.co/economia/casi-10-de-las-ventas-de-vivienda-en-el-exterior-son-compradas-por-colombianos-4424750
+- El Tiempo, remesas y vivienda — https://www.eltiempo.com/economia/sectores/el-impulso-de-las-remesas-estos-son-los-departamentos-preferidos-por-los-colombianos-en-el-exterior-para-comprar-vivienda-3570039
+- Cambio, compra desde el exterior — https://cambiocolombia.com/peso-a-peso-paso-a-paso/articulo/2025/9/raices-que-no-se-olvidan-el-boom-de-comprar-vivienda-en-colombia-desde-el-exterior/
+- Fincaraíz, sobre planos — https://blog.fincaraiz.com.co/vivienda-nueva/asi-podras-comprar-sobre-planos
+- vivienda.com.co, riesgos sobre planos — https://vivienda.com.co/comprar-vivienda-sobre-planos-riesgos-ventajas/
+- Coraly, mercado de portales de Colombia — https://coraly.ai/gppi/markets/colombia
+- La República, Metrocuadrado y Fincaraíz — https://www.larepublica.co/internet-economy/metrocuadrado-y-fincaraiz-las-plataformas-inmobiliarias-que-dominan-en-busquedas-4246011
+- Valora Analitik, ranking de constructoras 2025 — https://www.valoraanalitik.com/estas-son-las-constructoras-de-vivienda-mas-grandes-de-colombi/
+- Valora Analitik, ferias de Camacol en el exterior — https://www.valoraanalitik.com/camacol-retoma-ferias-para-colombianos-en-el-exterior/
+- Diario Las Américas, inversión de colombianos en USA — https://www.diariolasamericas.com/colombianos-estados-unidos-generan-nueva-ola-inversion-inmobiliaria-su-pais-origen-n5393959
+- Forbes Colombia, La Haus Serie A US$10M (2020) — https://forbes.co/2020/06/16/emprendedores/la-haus-levanta-us10-millones-y-se-perfila-como-la-mayor-proptech-de-colombia/
+- Reporte de NAR 2026 (vía Orlando Realtors) — https://www.orlandorealtors.org/clientuploads/International/2026_international_profile_report.pdf
+- NAR, compras extranjeras — https://www.nar.realtor/news/real-estate-news/foreign-home-buying-slows-but-u-s-real-estate-remains-attractive-among-certain-buyers
+- Florida Realtors, compradores internacionales — https://www.floridarealtors.org/tools-research/reports/international-home-buyers-sellers-profile-florida
+- MIAMI REALTORS — https://www.miamirealtors.com/2025/12/19/miami-dade-older-condominiums-continue-selling-faster-than-newer-units-affordable-condo-sales-surge/
+- NAHREP, 10,2M propietarios hispanos — https://nahrep.org/press-releases/2026/03/23/us-census-bureau-hispanics-reach-10-2-million-homeowners/
+- Pew, origen colombiano en USA — https://www.pewresearch.org/race-and-ethnicity/fact-sheet/us-hispanics-facts-on-colombian-origin-latinos/
+- Migration Policy Institute — https://www.migrationpolicy.org/article/colombian-immigrants-united-states
+- Realtor.com RealAssist AI — https://nationalmortgageprofessional.com/news/realtorcom-launches-ai-home-search-platform-built-google
+- Florida Realtors, ley de referral fees — https://floridarealtors.org/news-media/news-articles/2023/11/making-referral-money-fla-law-oversees-how-its-done

@@ -1,5 +1,8 @@
 # Opciones de posicionamiento: cómo no ser "otro buscador"
 
+> 🌎 **Actualización (19-nov-2026):** lanzamos en **Colombia + USA**. Las referencias a Argentina (CABA, CEDU, CAMARCO, Tokko, índice CAC, CNV) son ejemplos del modelo. Los equivalentes para nuestros mercados están en [`02-mercado/`](../02-mercado/README.md) y en el [plan Colombia + USA](plan-colombia-usa.md).
+
+
 ## Conclusión
 De 6 enfoques creativos evaluados, el recomendado es **A + B: "la fuente de confianza para invertir en obra nueva"**: un buscador vertical de pozo + reputación de desarrolladoras. Las herramientas (C) y los datos de mercado (D) funcionan como aceleradores. El enfoque para desarrolladoras (E) es el canal B2B. **Lo que define todo es la confianza**, no la búsqueda.
 

@@ -16,3 +16,16 @@
 | **Tokko Broker** | CRM inmobiliario líder | Inmobiliarias | Estándar del mercado | **Socio potencial** (integración) |
 
 Contexto: Argentina tenía ~127 startups PropTech activas y ~US$284M invertidos en 18 meses (dato a nov-2025, fuente secundaria) 🟡.
+
+## Colombia + USA (mercados de lanzamiento)
+
+| Empresa | Mercado | Qué hace | Datos | Amenaza |
+|---|---|---|---|---|
+| **Metrocuadrado** | CO | Portal líder; valuador automático y simulador de crédito | ~3,7–4,1M visitas por mes 🟡 | Alta en SEO genérico |
+| **Fincaraíz** | CO / USA | Portal #2; **ExpoFincaraíz en Miami** con 20 constructoras | ~3M visitas por mes 🟡 | **Alta: ya apunta a la diáspora** |
+| **Ciencuadras** | CO | Portal (grupo Bolívar); asistente IA MIA | ~1,7M visitas por mes 🟡 | Media |
+| **La Haus** | CO / MX | Proptech; US$135M+ levantados; LaHaus AI | Foco en México desde 2023 🟡 | Media |
+| **Habi** | CO / MX | Unicornio; compró Pulppo | — | Baja en obra nueva |
+| **Camacol (ferias)** | USA | Ferias en Miami y NJ para la diáspora | Presencial | Aliado potencial |
+| **Zillow / Realtor.com (RealAssist AI + Google) / CoStar (Homes Ai)** | USA | Búsqueda conversacional general | — | Alta si competimos de frente (no lo haremos) |
+| Brokerages de preconstrucción en Miami | USA | SEO de preconstrucción ES/EN | — | Competidores en SEO y **socios por la licencia** |

@@ -1,5 +1,7 @@
 # Cómo replicar lo que funciona y hacerlo mejor
 
+> 🌎 Este plan se escribió para Argentina. El plan vigente es el de [Colombia + USA](../../03-growth/plan-colombia-usa.md).
+
 ## Conclusión
 **Replicar** su motor de demanda (SEO programático + relato de fundador + WhatsApp) y **diferenciarnos** en tres ejes: **(1) segmento**: desarrolladoras y constructoras; **(2) modelo de ingresos**: por resultado o por emprendimiento, no por asesor; **(3) inventario**: propio y con exclusividad (directo del desarrollador), no crawleado.
 
